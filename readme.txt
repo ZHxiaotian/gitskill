@@ -3,3 +3,4 @@ Git is a free software
 Git is free software distrubuted under the GPL
 Creating a new branch is quick and simple
 abcdefghigklmn
+add/usr/bin/env
